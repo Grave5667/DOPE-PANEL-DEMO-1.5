@@ -1,6 +1,8 @@
 # DOPE-PANEL-DEMO-1.5
 DOPE PANEL DEMO 1.5
 
+FIRST RUN ON CMD THIS --> py -3 -m pip install -r requirements.txt
+
 Discord: Grave#5667
 
 Discord: https://discord.gg/WGb8KSkbWw
